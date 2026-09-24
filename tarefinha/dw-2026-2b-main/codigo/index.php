@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    oiii
+    
+  <a href="http://usuario">Cadastro</a>
+
 </body>
 </html>
