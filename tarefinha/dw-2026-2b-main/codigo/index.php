@@ -7,7 +7,7 @@
 </head>
 <body>
     
-  <a href="http://usuario">Cadastro</a>
+<a href="http://cad_usuario.php">cadastro</a> // esta dando errado o link// 
 
 </body>
 </html>
